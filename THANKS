@@ -1,20 +1,10 @@
-= TrinityCore -- Thanks/credits file =
+Хотелось бы отдельно сказать спасибо следующим людям:
+SignFinder - за твоё мего репо, над которым я провожу извращения по сегодняшний день.
+Vlad852 - так же за репо. А ещё за помощь.
+Bolvor - за ЦЛК скрипты. Но ему все приверженцы тринити благодарны походу :)
+Dimitro - за то что отвечаешь на некоторые вопросы в скайпе.
 
-TrinityCore is a derivation/rewrite of MaNGOS, which was originally written
-by Team Python and the WoW Daemon Team. Many people further helped Trinity Core
-by submitting bug reports, code patches, and suggestions. Thanks to the
-community!
-
-Special thanks should go out to the WowwoW team. We have gained help from
-them many times in the creation of this project. Keep up the good work guys.
-
-Thanks to the ScriptDev2 team (http://www.scriptdev2.com) for scripts.
-
-Thanks to the WCell team (especially Ralek) for research on realm reconnect
-sequence, item scaling stats algorithm, gameobject rotation issues.
-
-Thanks go out to the following people for various patches/code (listed in the
-order they were added): w12x, dythzer, XEQT, death420, balrok, TOM_RUS,
+А так же спасибо: w12x, dythzer, XEQT, death420, balrok, TOM_RUS,
 runningnak3d, Seline, KingPin, raczman, bogie, Neo2003, NoFantasy, Derex,
 freghar, toilet1, megamage, MadJack, WarHead, gvcoman, Ntsc, arrai, jrkpote,
 Seraphim, vagoth, KerchumA222, Rognar, Blaymoira, DragonHunter, Molius, ApoC,
@@ -61,7 +51,7 @@ SoulForge, Jackpoz, Cass, QuaLiT1, exul182, sunwell, AniRB, clotza, Tommassino,
 dracula70, alexsot, RedSonja, Cnillidan, Proofzor, aqs999, Sony, amsjunior123,
 Sisif, Joshh, alex_1983, arez, RammboNr5, Insider, bodompelle, lobuz, Azazel,
 footman, elron103, make_the_king, destros, MetaphysicalDrama, disassebler,
-Malcrom, Vladmim�r Lipt�k, retriman, hyriuu, Smakapotatis, PainKiller,
+Malcrom, Vladmim�r Lipt�k, retriman, hyriuu, Smakapotatis, PainKiller,
 bkhorizon, n0n4m3, Chesterfield, Frankir, Wowka321, Morpheux, p0wer,
 Ouden, toshik, laise, yavi, Splinter, Syntec, Arthas, denyde, unholy,
 Vaughner, blackmanos, edrinn, Liberate, Shauren, dr.tenma, click, silverice,
